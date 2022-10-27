@@ -22,6 +22,10 @@
 .movieBox{
   padding: 10px;
 }
+.movieBox:hover{
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
 img{
   width: 250px;
   height: 325px;
