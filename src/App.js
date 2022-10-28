@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css'
 import { useState, useEffect } from 'react';
 import Movie from './Components/Movie';
 import Header from './Components/Header';
